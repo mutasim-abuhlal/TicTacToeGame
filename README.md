@@ -18,15 +18,15 @@ conditional statements, loops, and object-oriented programming principles
 # Installation
 clone this project then open your vs then build it and enjoy :-)
 
-#Technologies Used
+# Technologies Used
 - C#
 - .Net Framework
 - WinForms
 
-#Contributing
+# Contributing
 Contributions are welcome. Please create a 
 pull request or open an issue.
 
-#Author
+# Author
 Mutasim Abu-Hlal
 
